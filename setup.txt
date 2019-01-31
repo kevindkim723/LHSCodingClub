@@ -1,0 +1,29 @@
+﻿This is the lhs coding club repository.
+
+After you have cloned this repository (A fancy name for a folder), you can add/change/delete files/folders in the repository as you wish.
+
+There is a main repository stored online on github, and a local repository that is stored on your computer. 
+
+Let’s call the online repo main, and the local repo clone
+
+Right now, you have a cloned version of main on your computer. Making changes to clone will not affect main.
+
+Right now, you want to make a branch of the repository, and work on that branch
+
+A branch is basically a copy of the local repository, except making changes to that branch will not affect the local repository. 
+
+You don’t want to make changes to the local repository because you don’t want to mess up the main repo (a repo you don’t have permission to change anyways).
+
+To branch, type in the following (including the quotation marks):
+
+git checkout -b “name of your branch” 
+
+checkout – switching to a branch
+
+-b – establishing a branch
+
+checkout -b both switches to and establishes a branch.
+
+
+
+

@@ -1,5 +1,7 @@
 # Leigh Coding Club
+#### Every Thursdays in Room 2 at Lunch
 Includes:
-<br>-Problem Sets and Answers
-<br>-Resources
-<br>-Individual Member repositories (coming soon)
+<br> 
++ Problem Sets and Answers
++ Resources
++ Individual Member repositories (coming soon)
